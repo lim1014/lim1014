@@ -1,7 +1,7 @@
 # Young Seo Lim
 
 > 📌 [Product Effectiveness Measurement Algorithm(PEM)](https://github.com/lim1014/Product-Effectiveness-Measurement-Algorithm) ✒📖</br>
->   *온라인 고객 리뷰를 활용한 제품 효과 분석 기법</br>
+>   *온라인 고객 리뷰를 활용한 제품 효과 분석 기법*</br>
 >   *(A TECHNIQUE FOR PRODUCT EFFECT ANALYSIS USING ONLINE CUSTOMER REVIEWS)*</br>
 >   
 > 📌 [Deep Prevention](https://github.com/lim1014/DeepPrevention) ✒📖</br>

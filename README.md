@@ -1,10 +1,12 @@
 # Young Seo Lim
 
-> 📌 Product Effectiveness Measurement Algorithm(PEM) </br>
-> 📌 Kakao Arena : Melon Playlist Continuation 👯</br>
-> 📌 Deep Prevention </br>
->    (A Recurrent Neural Network Based Prediction Model for Detecting Risk Factors for Progression from Atrophic Gastritis to Gastric Cancer)
-
+> 📌 [Product Effectiveness Measurement Algorithm(PEM)](https://github.com/lim1014/Product-Effectiveness-Measurement-Algorithm) ✒📖</br>
+>   *온라인 고객 리뷰를 활용한 제품 효과 분석 기법(A TECHNIQUE FOR PRODUCT EFFECT ANALYSIS USING ONLINE CUSTOMER REVIEWS)*</br>
+>   
+> 📌 [Deep Prevention](https://github.com/lim1014/DeepPrevention) ✒📖</br>
+>    *A Recurrent Neural Network Based Prediction Model for Detecting Risk Factors for Progression from Atrophic Gastritis to Gastric Cancer* </br>
+>    
+> 📌 [Kakao Arena : Melon Playlist Continuation](https://github.com/lim1014/Kakao-Arena) 👯</br>
 
 
 <!--
@@ -21,12 +23,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align = "center">
-  <h3 align="center">🛠️ Available languages 🛠️</h3>
+  <h3 align="center">🛠️ Main languages 🛠️</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<div align = "center">
+  <h3 align="center">🌱 Available languages 🌱</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim1014&show_icons=true&theme=white)
 

@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
-
+</br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim1014&show_icons=true&theme=white)
 
 </div>

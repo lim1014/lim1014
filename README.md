@@ -1,4 +1,6 @@
 # Young Seo Lim
+## Data Analyst
+
 
 > 📌 [Product Effectiveness Measurement Algorithm(PEM)](https://github.com/lim1014/Product-Effectiveness-Measurement-Algorithm) ✒📖 (2019.03~2020.07) </br>
 >   *온라인 고객 리뷰를 활용한 제품 효과 분석 기법*</br>
@@ -9,21 +11,14 @@
 >    
 > 📌 [Kakao Arena : Melon Playlist Continuation](https://github.com/lim1014/Kakao-Arena) (2020) 👯</br>
 
+> [추후 업로드 가능한 프로젝트, 파일] </br>
+> 📌 Ensemble Modeling + XAI 활용 프로젝트 (2021.03~2021.12)</br>
+> 📌 음식 추천 서비스 (2021.08~2021.10)</br>
+> 📌 디지털 마케팅 과제 미니 프로젝트 (2021.12, R 활용 예정)</br>
+> 📌 2020 세종시 빅데이터 아이디어 공모전 - 본인한테 파일 없음.. (본선) </br>
+> 📌 알고리즘 관련 공부한 거 올려볼까 고민 중</br>
 
-<!--
-**lim1014/lim1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align = "center">
   <h3 align="center">🛠️ Main languages 🛠️</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>

@@ -1,7 +1,8 @@
 # Young Seo Lim
-## Data Analyst
+## Data Analyst & Data Scientist
 
-
+ **[Main Project]**
+>
 > 📌 [Product Effectiveness Measurement Algorithm(PEM)](https://github.com/lim1014/Product-Effectiveness-Measurement-Algorithm) ✒📖 (2019.03~2020.07) </br>
 >   *온라인 고객 리뷰를 활용한 제품 효과 분석 기법*</br>
 >   *(A TECHNIQUE FOR PRODUCT EFFECT ANALYSIS USING ONLINE CUSTOMER REVIEWS)*</br>
@@ -10,13 +11,17 @@
 >    *A Recurrent Neural Network Based Prediction Model for Detecting Risk Factors for Progression from Atrophic Gastritis to Gastric Cancer* </br>
 >    
 > 📌 [Kakao Arena : Melon Playlist Continuation](https://github.com/lim1014/Kakao-Arena) (2020) 👯</br>
+>
+> 📌 [Ensemble Deep Learning/ Deep Transfer Learning](https://github.com/lim1014/Deep-Transfer-Learning) (2021.03~2021.12) </br>
+>
+> 📌 [AI 자연어 처리 전문가 양성 과정 Project](https://github.com/goorm-nlp-4th-group2) (2022.04~2022.08) 👯</br> 
 
-> [그 외 프로젝트] </br>
+ **[그 외 프로젝트]** </br>
 > 
-> 📌 Ensemble Modeling + XAI 활용 프로젝트 (2021.05 ~ 진행 중) </br>
-> 📌 디지털 마케팅 과제 미니 프로젝트 (2021.12, R 활용)</br>
-> 📌 2020 세종시 빅데이터 아이디어 공모전 - (본선 통과) </br>
-> 📌 2021 정보통계학과 학술제 (2021.08 ~ 2021.10)(레시피를 활용한 음식 추천 서비스)</br>
+> 📌 '디지털 마케팅' 과제 미니 프로젝트 (2021.12, R 활용)</br>
+> 📌 2020 세종시 빅데이터 아이디어 공모전 - (2020, 예선 통과) </br>
+> 📌 2021 정보통계학과 학술제 (2021.08 ~ 2021.10) (레시피를 활용한 음식 추천 서비스)</br>
+> 
 
 
 <div align = "center">

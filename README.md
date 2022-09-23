@@ -6,7 +6,7 @@
 > 📌 [Product Effectiveness Measurement Algorithm(PEM)](https://github.com/lim1014/Product-Effectiveness-Measurement-Algorithm) ✒📖 (2019.03~2020.07) </br>
 >   *온라인 고객 리뷰를 활용한 제품 효과 분석 기법*</br>
 >   *(A TECHNIQUE FOR PRODUCT EFFECT ANALYSIS USING ONLINE CUSTOMER REVIEWS)*</br>
->> 본 프로젝트는 2019 한국정보처리학회 주관 학부생 논문 경진 대회에서 입상한 논문을 확장연구한 논문 입니다.
+>> 본 프로젝트는 2019 한국정보처리학회 주관 추계학술발표대회 학부생 논문 경진 대회에서 입상한 [*'소셜미디어를 활용한 아토피 치료법 효과 분석 모델(An Analytical Effect Model for Atopic Therapy Using Social Media)'*](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263815&dbt=NPAP)논문을 확장연구한 결과물입니다.
 >   
 > 📌 [Deep Prevention](https://github.com/lim1014/DeepPrevention) ✒📖 (2020.01~2021.05) </br>
 >    *A Recurrent Neural Network Based Prediction Model for Detecting Risk Factors for Progression from Atrophic Gastritis to Gastric Cancer* </br>

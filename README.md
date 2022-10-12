@@ -55,6 +55,7 @@
   <h3 align="center">🌱 Available languages 🌱</h3>
   <img src="https://img.shields.io/badge/R-1572B6?style=flat-square&logo=R&Studio&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/W&B-F7DF1E?style=flat-square&logo=W&B&Studio&logoColor=black">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>

@@ -29,20 +29,22 @@
 >
 >
  **[그 외 프로젝트]** </br>
-> 📌 교내 빅데이터 활용 공모전 (2018) </br>
-> 📌 교내 경영학과 겨울방학 코딩캠프 미니 공모전 (2019.01, python 활용한 지도 시각화 기획서) </br>
-> 📌 롯데멤버스 제 6회 엘포인트 빅데이터 컴퍼티션 (2019.12) </br>
-> 📌 2020 세종시 빅데이터 아이디어 공모전 - (2020, 예선 통과) </br>
-> 📌 레시피와 이미지를 활용한 음식 추천 서비스 (2021.03 ~ 2021.10) (식품 안전나라 공공데이터 활용 공모전(출전), 정보통계학과 학술제(입상))</br>
-> 📌 '디지털 마케팅' 과제 미니 프로젝트 (2021.12, R 활용)</br>
+> 📌 교내 빅데이터 활용 공모전 (2018) </br>  
+> 📌 교내 경영학과 겨울방학 코딩캠프 미니 공모전 (2019.01, python 활용한 지도 시각화 기획서) </br>  
+> 📌 롯데멤버스 제 6회 엘포인트 빅데이터 컴퍼티션 (2019.12) </br>  
+> 📌 2020 세종시 빅데이터 아이디어 공모전 - (2020, 예선 통과) </br>  
+> 📌 레시피와 이미지를 활용한 음식 추천 서비스 (2021.03 ~ 2021.10) </br>
+>> (식품 안전나라 공공데이터 활용 공모전(출전), 정보통계학과 학술제(입상)) </br>  
+>
+> 📌 '디지털 마케팅' 과제 미니 프로젝트 (2021.12, R 활용)</br>  
 > 
 >
 **[그 외 활동]** </br>
-> ✨ 2017.07~2018.06 자기계발 연합동아리 'T-work' 활동 </br>
-> ✨ 2017.09~2019.12 전공 스터디 '모두피움' 참여 </br>
-> ✨ 2018.03~2018.05 전공 학회 참여 (SAS, SQL 스터디 후, SAS Base 자격증 취득) </br>
-> ✨ 2021.03~2021.12 전공 학회 'Outlier' 참여 </br>
-> ✨ 2021.03~2021.07 PBL '클라우드 플랫폼' 멘토 </br>
+> ✨ 2017.07 ~ 2018.06 자기계발 연합동아리 'T-work' 활동 </br>  
+> ✨ 2017.09 ~ 2019.12 전공 스터디 '모두피움' 참여 </br>  
+> ✨ 2018.03 ~ 2018.05 전공 학회 참여 (SAS, SQL 스터디 후, SAS Base 자격증 취득) </br>  
+> ✨ 2021.03 ~ 2021.12 전공 학회 'Outlier' 참여 </br>  
+> ✨ 2021.03 ~ 2021.07 PBL '클라우드 플랫폼' 멘토 </br>  
 
 
 
@@ -51,7 +53,8 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <div align = "center">
   <h3 align="center">🌱 Available languages 🌱</h3>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-1572B6?style=flat-square&logo=R&Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
